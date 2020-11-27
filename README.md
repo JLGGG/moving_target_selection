@@ -1,1 +1,1 @@
-# moving_target_selction
+### Implementation moving target selection for triangle test.
